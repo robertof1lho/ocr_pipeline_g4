@@ -1,0 +1,43 @@
+{
+  "_note": "Anexo Único da Portaria SEDECON/SEDEAS/SESAU 01/2024. Populate com os CIDs oficiais.",
+  "G35": {
+    "nome": "Esclerose Múltipla",
+    "acompanhante": false,
+    "validade_anos": null
+  },
+  "G20": {
+    "nome": "Doença de Parkinson",
+    "acompanhante": true,
+    "validade_anos": null
+  },
+  "F70": {
+    "nome": "Retardo Mental Leve",
+    "acompanhante": false,
+    "validade_anos": null
+  },
+  "F71": {
+    "nome": "Retardo Mental Moderado",
+    "acompanhante": true,
+    "validade_anos": null
+  },
+  "F72": {
+    "nome": "Retardo Mental Grave",
+    "acompanhante": true,
+    "validade_anos": null
+  },
+  "H54": {
+    "nome": "Cegueira e Visão Subnormal",
+    "acompanhante": true,
+    "validade_anos": null
+  },
+  "H90": {
+    "nome": "Perda de Audição por Condução e Neurossensorial",
+    "acompanhante": false,
+    "validade_anos": null
+  },
+  "G80": {
+    "nome": "Paralisia Cerebral",
+    "acompanhante": true,
+    "validade_anos": null
+  }
+}
